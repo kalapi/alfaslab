@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "913";
 classes = (
 {
 automatic = 1;
@@ -20361,7 +20361,7 @@ unicode = 007E;
 },
 {
 glyphname = grave;
-lastChange = "2016-08-02 11:29:42 +0000";
+lastChange = "2016-08-15 16:12:11 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -20372,9 +20372,9 @@ nodes = (
 "203 611 LINE",
 "363 611 LINE",
 "363 626 LINE",
-"254 778 LINE",
-"40 778 LINE",
-"40 751 LINE"
+"315 778 LINE",
+"101 778 LINE",
+"101 751 LINE"
 );
 }
 );
@@ -20385,7 +20385,7 @@ unicode = 0060;
 },
 {
 glyphname = acute;
-lastChange = "2016-08-02 11:29:50 +0000";
+lastChange = "2016-08-15 16:12:20 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -20393,9 +20393,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"363 751 LINE",
-"363 778 LINE",
-"149 778 LINE",
+"314 751 LINE",
+"314 778 LINE",
+"100 778 LINE",
 "40 626 LINE",
 "40 611 LINE",
 "200 611 LINE"
@@ -21913,7 +21913,7 @@ unicode = 0331;
 {
 color = 3;
 glyphname = gravecomb.case;
-lastChange = "2016-08-02 19:22:35 +0000";
+lastChange = "2016-08-15 16:11:03 +0000";
 layers = (
 {
 anchors = (
@@ -21934,9 +21934,9 @@ nodes = (
 "-65 838 LINE",
 "132 838 LINE",
 "132 853 LINE",
-"23 949 LINE",
-"-228 949 LINE",
-"-228 923 LINE"
+"89 949 LINE",
+"-162 949 LINE",
+"-162 923 LINE"
 );
 }
 );
@@ -21947,7 +21947,7 @@ width = 0;
 {
 color = 3;
 glyphname = acutecomb.case;
-lastChange = "2016-08-02 19:22:41 +0000";
+lastChange = "2016-08-15 16:11:22 +0000";
 layers = (
 {
 anchors = (
@@ -21965,9 +21965,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"230 923 LINE",
-"230 949 LINE",
-"-21 949 LINE",
+"176 923 LINE",
+"176 949 LINE",
+"-75 949 LINE",
 "-130 853 LINE",
 "-130 838 LINE",
 "67 838 LINE"
@@ -29866,7 +29866,7 @@ unicode = 1EE0;
 {
 color = 3;
 glyphname = Uhorn;
-lastChange = "2016-08-02 23:22:31 +0000";
+lastChange = "2016-08-15 16:08:47 +0000";
 layers = (
 {
 anchors = (
@@ -29906,8 +29906,7 @@ nodes = (
 closed = 1;
 nodes = (
 "715 614 LINE",
-"765 614 LINE",
-"765 778 LINE",
+"715 778 LINE",
 "422 778 LINE",
 "422 614 LINE",
 "462 614 LINE",
@@ -36709,7 +36708,7 @@ unicode = 0335;
 },
 {
 glyphname = tildecomb.loclVIET.case;
-lastChange = "2016-08-04 23:04:34 +0000";
+lastChange = "2016-08-15 16:12:28 +0000";
 layers = (
 {
 anchors = (
@@ -36734,7 +36733,7 @@ width = 0;
 },
 {
 glyphname = gravecomb.loclVIET;
-lastChange = "2016-08-02 23:18:24 +0000";
+lastChange = "2016-08-15 16:06:35 +0000";
 layers = (
 {
 anchors = (
@@ -36750,9 +36749,9 @@ closed = 1;
 nodes = (
 "87 616 LINE",
 "87 631 LINE",
-"8 783 LINE",
-"-196 783 LINE",
-"-196 756 LINE",
+"55 783 LINE",
+"-149 783 LINE",
+"-149 756 LINE",
 "-63 616 LINE"
 );
 }
@@ -36763,7 +36762,7 @@ width = 0;
 },
 {
 glyphname = acutecomb.loclVIET;
-lastChange = "2016-08-02 23:17:31 +0000";
+lastChange = "2016-08-15 16:06:47 +0000";
 layers = (
 {
 anchors = (
@@ -36777,9 +36776,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"196 756 LINE",
-"196 783 LINE",
-"-8 783 LINE",
+"150 756 LINE",
+"150 783 LINE",
+"-54 783 LINE",
 "-87 631 LINE",
 "-87 616 LINE",
 "63 616 LINE"
