@@ -8,8 +8,8 @@ Design by JM Solé
 
 ### Language Support
 
-the font supports the following languages
-
+**WIP**
 
 ### OpenType Support
 
+**WIP**
